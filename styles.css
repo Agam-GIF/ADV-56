@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(to bottom, #66ffcc 0%, #E0115F 70%, #ff99cc 100%);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+img {
+    height: 200px;
+
+}
+
+p {
+    font-family: cursive;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.top {
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+}
+
+
+#Test {
+    padding-left: 75px;
+
+}
+
+#Test1 {
+    padding-left: 75px;
+    width: 300px;
+    height: 350px;
+}
+
+#Test2 {
+    width: 300px;
+    height: 400px;
+}
+
+h2 {
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
